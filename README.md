@@ -19,5 +19,3 @@ A feladat elkészítésének a legnagyobb kihívását a megoldás kiíratása j
 
 Munkát végezte: 
 Somogyi György
-metalhero2010@gmail.com
-+36/20 210-8437
