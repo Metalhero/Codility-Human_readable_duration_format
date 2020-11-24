@@ -1,0 +1,2 @@
+# Codility-Human_readable_duration_format
+Mintafeladat álláshoz
