@@ -9,5 +9,5 @@ Munka követelmények: Tudásom legjavával oldjam meg a feladatot
 Feladat leírása: [link](https://www.codewars.com/kata/human-readable-duration-format)
 
 Feladatot készítette:
-Somogyi György
-2021.04.23
+<p>Somogyi György<br>
+2021.04.23</p>
