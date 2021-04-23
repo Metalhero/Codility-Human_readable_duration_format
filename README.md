@@ -10,5 +10,4 @@ Feladat leírása: [link](https://www.codewars.com/kata/human-readable-duration-
 
 Feladatot készítette:
 Somogyi György
-
 2021.04.23
